@@ -1,2 +1,6 @@
 # Structural-analysis-of-regional-economies-based-on-I-O-data
-Using Leontief Inverse I/O matrices to analyze regional structure of economies using both supervised and unsupervised methods.
+## Using Leontief Inverse I/O matrices to analyze regional structure of economies using both supervised and unsupervised methods.
+### Data from: https://www.rug.nl/ggdc/valuechain/long-run-wiod 
+### Abstract:
+Using input–output economic data compiled by the University of Groningen’s Growth and Development Centre, we compute Leontief inverse matrices to capture domestic intersectoral dependencies within national economies. These matrices are used as structural representations of economic production networks. We apply both supervised and unsupervised machine learning methods to
+investigate whether similarities and differences in sectoral output structures correspond to geographic or political regional groupings. Dimensionality reduction, K-nearest neighbors classification, decision tree models, and K-means clustering are implemented to analyze patterns across countries. Our results evaluate the extent to which Leontief inverse matrices reliably group regional economic characteristics and assess their effectiveness for classifying national economies. This study demonstrates how classical input/output economic models can be integrated with modern machine learning techniques for comparative structural economic analysis.
